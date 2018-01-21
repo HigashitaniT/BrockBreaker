@@ -1,0 +1,5 @@
+﻿  Enemy.cpp
+c:\users\toshikih\desktop\dxlibs\dxlib_projects\brockbreaker\brockbreaker\enemy.cpp(46): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toshikih\desktop\dxlibs\dxlib_projects\brockbreaker\brockbreaker\enemy.cpp(58): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  BrockBreaker.vcxproj -> C:\Users\ToshikiH\Desktop\DxLibs\DxLib_Projects\BrockBreaker\Debug\BrockBreaker.exe
+  BrockBreaker.vcxproj -> C:\Users\ToshikiH\Desktop\DxLibs\DxLib_Projects\BrockBreaker\Debug\BrockBreaker.pdb (Partial PDB)
